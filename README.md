@@ -1,1 +1,1 @@
-# icml_rebuttal
+This repository contains the figures used in the ICML submission for the synthetic experiment with `proba_missing=0.1`, comparing the proposed method with several baselines in terms of shortfall risk and interval length. The two plots show the overall mean across `MCAR`, `MAR`, and `PMIX`, and the per-mechanism comparison, respectively.
